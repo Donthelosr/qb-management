@@ -1,5 +1,7 @@
 # qb-management
 
+THIS IS THE SAME AS QB-MANAGEMENT JUST THAT IT HAS ZERIO-MULTIJOBS SUPPORT! :)
+
 New qb-bossmenu / qb-gangmenu converted into one resource using qb-menu and qb-input, with SQL support for society funds!
 
 ## Dependencies
